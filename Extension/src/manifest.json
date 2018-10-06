@@ -1,0 +1,17 @@
+{
+"manifest_version": 2,
+ "name":"PasswordKeeper",
+ "version": "1.0",
+ "description": "Keeps tracks of your passwords",
+ "icons": {"128": "icon.png"},
+ "browser_action": {
+   "default_icon": "browseraction.png",
+   "default_title": "PasswordKeeper",
+   "popup": "popup.html"
+  }
+ }
+
+ 
+ 
+ 
+ 
